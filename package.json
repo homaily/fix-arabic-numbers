@@ -1,6 +1,6 @@
 {
   "name": "fix-arabic-numbers",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Replace arabic numbers with engilsh ones.",
   "main": "index.js",
   "scripts": {

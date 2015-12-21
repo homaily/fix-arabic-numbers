@@ -46,8 +46,7 @@ function fix(val) {
           .replace(/٧/g, '7')
           .replace(/٨/g, '8')
           .replace(/٩/g, '9')
-          .replace(/٪/g, '%')
-          .replace(/ـ/g, '_');
+          .replace(/٪/g, '%');
 
 }
 
