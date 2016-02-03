@@ -1,6 +1,6 @@
 {
   "name": "fix-arabic-numbers",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Replace arabic numbers with engilsh ones.",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,9 @@
     "replace",
     "numbers",
     "iphone",
-    "ios"
+    "ios",
+    "android",
+    "os x"
   ],
   "author": "Abdulaziz Homaily <a.homaily@gmail.com> (http://homaily.com)",
   "license": "MIT"
